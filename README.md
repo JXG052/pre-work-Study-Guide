@@ -13,10 +13,10 @@ about vs code, git and github, using the command line</p>
 
 ## Usage
 
-<ol>
-    <li>Navigate to URL to view notes, broken down into section where you will see bullet points of what I have learned</li>
-    <li>Open the console using chrome devOp tools using `control shift I`</li>
-</ol>
+Navigate to URL to view notes, broken down into section where you will see bullet points of what I have learned
+Open the console using chrome devOp tools using `control+shift+I` 
+
+
 ## Credits
 
 <p>edx bootcamp pre-work</p>
